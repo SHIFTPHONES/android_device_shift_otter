@@ -13,5 +13,5 @@ $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 PRODUCT_NAME := lineage_otter
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    BuildFingerprint=SHIFT/otter/otter:14/SOS.6.5.20260306/20260306:user/release-keys \
+    BuildFingerprint=SHIFT/otter/otter:14/SOS.6.6.20260507/20260507:user/release-keys \
     DeviceProduct=otter
