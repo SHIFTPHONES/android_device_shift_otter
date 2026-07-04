@@ -1,4 +1,4 @@
-# Unpinned blobs from SHIFT/otter/otter:14/SOS.6.5.20260306/20260306:user/release-keys
+# Unpinned blobs from SHIFT/otter/otter:14/SOS.6.6.20260507/20260507:user/release-keys
 
 # ACDB
 vendor/etc/acdbdata/IDP/lahaina-yupikidp-snd-card/IDP_Yupik_Bluetooth_cal.acdb
