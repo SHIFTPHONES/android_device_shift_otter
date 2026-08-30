@@ -30,7 +30,7 @@ Software  | Initial launch with Android™ 14
 
 Advanced  | Spec Sheet
 ---------:|:-------------------------
-DAB+      | Supported
+DAB+      | [Support postponed](https://www.etsi.org/deliver/etsi_TS/102500_102599/102563/02.01.01_60/ts_102563v020101p.pdf)
 Display   | [DP over USB-C supported](https://www.displayport.org/displayport-over-usb-c/)
 
 ## License
